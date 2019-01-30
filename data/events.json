@@ -1,0 +1,1 @@
+[null,{"name":"Error","temp":"error 1","event-type":"37","actions":[{"channel":"4","varName":"","message":"${tempVars(\"error 1\")}\n\n${tempVars(\"error 2\")}","storage":"0","varName2":"","name":"Send Message"}],"temp2":"error 2"}]
